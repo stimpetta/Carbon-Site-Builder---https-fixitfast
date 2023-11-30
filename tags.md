@@ -1,5 +1,2 @@
----
-title: etiquetas
-layout: tags
-permalink: /tags/
----
+# Garry replaces tags
+with my own evil plan
